@@ -9,23 +9,19 @@
 
 ### 🌟 About Me:
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <ul>
-          <li>🚀 Full-Stack Developer specializing in <b>React, Node.js, MongoDB, and Express</b>.</li>
-          <li>💡 Passionate about <b>building scalable applications</b> and exploring new technologies.</li>
-          <li>🛠 Currently working on <b>exciting web projects</b> and <b>expanding my tech stack</b>.</li>
-          <li>📚 Always eager to learn and contribute to <b>open-source</b> projects.</li>
-          <li>🎯 Goal: Master <b>backend optimizations and system design</b>.</li>
-        </ul>
-      </td>
-      <td align="center">
-        <img src="https://i.pinimg.com/originals/46/16/3d/46163da5e8a1fa8e777a020607cddc1c.gif" width="250"/>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; min-width: 250px;">
+    <ul>
+      <li>🚀 Full-Stack Developer specializing in <b>React, Node.js, MongoDB, and Express</b>.</li>
+      <li>💡 Passionate about <b>building scalable applications</b> and exploring new technologies.</li>
+      <li>🛠 Currently working on <b>exciting web projects</b> and <b>expanding my tech stack</b>.</li>
+      <li>📚 Always eager to learn and contribute to <b>open-source</b> projects.</li>
+      <li>🎯 Goal: Master <b>backend optimizations and system design</b>.</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="https://i.pinimg.com/originals/46/16/3d/46163da5e8a1fa8e777a020607cddc1c.gif" width="250"/>
+  </div>
 </div>
 
 ---
