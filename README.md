@@ -11,6 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atikx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="atikx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atikx&show_icons=true&locale=en" alt="atikx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atikx&show_icons=true&locale=en&theme=tokyonight" alt="atikx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atikx&" alt="atikx" /></p>
