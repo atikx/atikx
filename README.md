@@ -69,18 +69,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atikx&show_icons=true&theme=tokyonight" alt="Atiksh's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikx&theme=tokyonight" alt="Atiksh's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikx&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atikx&show_icons=true&theme=tokyonight" alt="Atiksh's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikx&layout=compact&theme=dracula" alt="Top Languages" width="48%"/>
 </p>
 
 ---
 
 🔥 **Always learning and building something cool!** 🚀
-
